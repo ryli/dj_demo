@@ -98,7 +98,7 @@ ENV/
 .\#*
 
 # static files
-static/
+# static/
 
 # vscode
 .vscode/
